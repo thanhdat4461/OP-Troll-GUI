@@ -1,3 +1,5 @@
+--- FE OP TROLL GUI MADE BY MyWorld Not Me
+--- Put Script Into Github Made By thanhdat4461 (ExploitBacon)
 --[[
     info script
     by MyWorld 
